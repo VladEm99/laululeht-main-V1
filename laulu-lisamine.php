@@ -49,7 +49,7 @@ if(isset($_REQUEST['minus'])) {
     <a href="laulu-lisamine.php">Home page</a>
     <a href="laulud_adminLeht.php">Administreerimise leht</a>
     <a href="laulud.php">Kasutaja leht</a>
-    <a href="link">Git HUB</a>
+    <a href="https://github.com/VladEm99/laululeht-main-V1">Git HUB</a>
 </nav>
 <h2>Laulu lisamine</h2>
 <form action="?" method="post">
